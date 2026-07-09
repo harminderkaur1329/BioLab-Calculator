@@ -81,13 +81,13 @@ BioLab Calculator/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/harminderkaur1329/BioLab Calculator.git
+git clone https://github.com/harminderkaur1329/BioLab-Calculator.git
 ```
 
 ### 2️⃣ Navigate to the project
 
 ```bash
-cd BioLab Calculator
+cd BioLab-Calculator
 ```
 
 ### 3️⃣ Install dependencies
